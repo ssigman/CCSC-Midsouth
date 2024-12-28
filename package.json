@@ -1,0 +1,15 @@
+{
+  "name": "ccsc-midwest",
+  "version": "1.0.0",
+  "description": "Initial web site for the CCSC: Midsouth Region.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch",
+    "prettier": "npx prettier --write **/*.html"
+  },
+  "author": "S. Sigman",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.6.9"
+  }
+}
