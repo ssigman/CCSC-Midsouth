@@ -10,6 +10,7 @@
   "author": "S. Sigman",
   "license": "MIT",
   "devDependencies": {
-    "prettier-plugin-tailwindcss": "^0.6.9"
+    "prettier-plugin-tailwindcss": "^0.6.9",
+    "tailwindcss": "^3.4.17"
   }
 }
