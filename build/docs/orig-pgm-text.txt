@@ -1,0 +1,28 @@
+<p class="py-1">
+                        While the final form or the program for this year is under construction at this time, you can
+                        expect pedagogy papers & research paper presentations, poster presentations, workshops,
+                        tutorials,
+                        panels, and lightning talks. There will be activities for both faculty and students.
+                    </p>
+                    <p class="py-1">
+                        You can become involved by:
+                    <ul class="px-2 list-inside list-disc">
+                        <li>
+                            Presenting a paper, poster, paper, worksop, panel, or lightning talk. See the
+                            <span class="text-indigo-700 dark:text-indigo-300"><a href="docs/CCSC Mid South CFP.pdf"
+                                    class="hover:opacity-90">Call for
+                                    Participation</a></span> for details. Or,
+                            <span class="text-indigo-700 dark:text-indigo-300"><a
+                                    href="https://www.conftool.org/ccsc-ms/" class="hover:opacity-90">Submit a
+                                    paper</a></span> for
+                            review. <span class="text-indigo-700 dark:text-indigo-300"><a
+                                href="https://www.ccsc.org/journal/submission-guidelines/" class="hover:opacity-90">
+                                CCSC Submission Guidelines</a></span> can be found here. The Submission deadline is <span class="text-white">March 2, 2025</span>.
+                        </li>
+                        <li>Serving on the conference committee or the regional steering committee. (It's not too late
+                            to volunteer). Complete the form to <span class="text-indigo-700 dark:text-indigo-300"><a
+                                    href="https://docs.google.com/forms/d/e/1FAIpQLSetTiv58YyQCzn92CqD6OH6OsdHKRxBqpQRGsDe8omIFLd3Rw/viewform?usp=header" 
+                                    class="hover:opacity-90">Volunteer for CCSC:Midsouth Conference</a></span>
+                        </li>
+                    </ul>
+                    </p>
